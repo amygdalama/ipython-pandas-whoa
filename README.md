@@ -1,0 +1,1 @@
+This is a comparison of the barbaric workflow I previously used (executing .py scripts in the terminal without using pandas) with the ever-so-easy workflow that can be used with ipython and pandas.
