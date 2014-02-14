@@ -16,7 +16,7 @@ parsed_data = []
 # Read file
 raw_data = csv.reader(f)
 
-# Define our headers since the file doesn't contain explicit headers
+# Define our headers since the url doesn't contain explicit headers
 # I found these headers from looking at the documentation at
 # http://mlr.cs.umass.edu/ml/machine-learning-databases/iris/iris.names
 headers = ['Sepal Length', 'Sepal Width', 'Petal Length', 'Petal Width', 'Class'
